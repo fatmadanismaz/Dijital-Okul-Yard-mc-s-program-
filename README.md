@@ -23,3 +23,17 @@
 > Özellikle sesli ve yazılı bilgilerin kolayca birbirine dönüştürülmesi öğrencilerin öğrenme tarzlarına göre en uygun yöntemi seçmelerine çok büyük katkı sağlar.
 > Böyle bir uygulama ders çalışma alışkanlıklarına yeni kazanımlar sağlarken zaman yönetimi konusunda da öğrencilere çok büyük katkı sağlar.
 > Ve bu sayede gençlerin asla uzak duramadığı teknoloji ve eğitimi buluşturan bu uygulama çok yenilikçi bir adım olur.
+
+
+####Proje çalışmaları bölümlemeleri.
+>Proje sistem sahipleri Emine Yıldız Fatma Danışmaz Sude Bereket olarak üç kişi çalışıyoruz bütün aşamalarda hepimiz söz hakkı sahibiyiz.
+>Her aşamada hepimizin onayı ve desteği olarak projemizi kurmaya çalışıyoruz.
+>Bu süreç uzun bir süreç hepimiz her konuda destekçi ve beraberiz hepimizin bilgileri ile idame ettiriyoruz.
+
+#####Projemize benzer örnek olabilecek bir uygulama aşağıda bıraktık.
+
+[benzer uygulama lnkine aşağıdan ulaşabilirsiniz.](https://apps.apple.com/tr/app/ai-note-taker-voice-to-notes/id6621190550?l=tr)
+
+
+
+<img src="[image](https://github.com/user-attachments/assets/99ac91e4-c4b1-4c5d-8d6e-562342a9797a)"alt="alt text" width="20" height="15">
